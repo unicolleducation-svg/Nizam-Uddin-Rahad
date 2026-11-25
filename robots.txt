@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nizam-uddin-rahad.vercel.app/sitemap.xml
